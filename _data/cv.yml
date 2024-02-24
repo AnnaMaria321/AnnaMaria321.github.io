@@ -2,9 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Dr. Anna Maria Hartkopf
     - name: Languages
       value: English, German
 
@@ -12,86 +10,55 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Freie University, Berlin, Germany 
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Dr. rer. nat. with grade summa cum laude
+        
+    - title: Diploma in Mathematics
+      institution: 
+      year: 2011
       description:
-        - Description 1.
-        - Description 2.
+        - Grade 1.5(Very Good)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Head of MIP.Labor
+      institution: Freie University Berlin, Germany
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Head of the MIP.labor, a research project on science journalism in Mathematics,
+Computer Science and Physics at Freie Universität Berlin, funded by Klaus Tschira
+Stiftung
+        
+    - title: Scientific Associate
+      institution: Freie Universität Berlin, Germany
+      year: 2012 - 2013
       description:
-        - Description 1.
-        - Description 2.
+        - Scientific associate at Freie Universität Berlin in the group Geophysical Fluid Dynamics
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Scientific Associate
+      institution: Mathematical Research Institute Oberwolfach(MFO)
+      year: 2011 - 2012
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Student Research Assistant
+      institution: Institute for Tropospherical Research, Leipzig
+      year: 2008 - 2010
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teaching Assistant
+      institution: Martin-Luther University, Halle-Wittenberg
+      year: 2008 - 2010
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Supervision
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Yasemin Savranoglu
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Parkettierungen der Ebene mit einem translatierten Polymomino, Bachelor Thesis, 2019
+    - title: Saskia Huppertz
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Fehler in mathematischen Veröffentlichungen, Master Thesis, 2020.
+    - title: Erin Henning
+      items:
+        - PhD Student, Since Jan 2021
