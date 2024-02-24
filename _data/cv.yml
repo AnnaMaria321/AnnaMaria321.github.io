@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Dr. Anna Maria Hartkopf
+    - name: email
+      value: anna.hartkopf@fu-berlin.de
     - name: Languages
       value: English, German
 
